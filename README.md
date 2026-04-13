@@ -10,6 +10,8 @@ discord: https://discord.gg/Ruup9hXy2p
 
 credits to @rasse077 for development
 
+credits to @simpleblk inspired by easyinstaller
+
 
 
 credits to @projectreboot for building api: https://discord.gg/rebootmp
